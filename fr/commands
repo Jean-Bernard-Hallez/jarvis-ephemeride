@@ -1,0 +1,1 @@
+*EPHEMERIDE*|*SAINT*==say "$(saint)"
