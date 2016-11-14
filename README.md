@@ -14,7 +14,7 @@ Annonce un proverbe insrit dans le fichier config.sh
 
 ## Usage
 ```
-You: éphéméride ?
+You: ephemeride ?
 Jarvis: On est le 15 novembre, c'est la Saint Albert
 
 ```
