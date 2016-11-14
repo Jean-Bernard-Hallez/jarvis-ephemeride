@@ -20,5 +20,5 @@ Jarvis: On est le 15 novembre, c'est la Saint Albert
 ```
 
 ## Author
-[Jean-Bernard Hallez](https://github.com/Jean-Bernard-Hallez/jarvis-plugin-math.git)
+[Jean-Bernard Hallez](https://github.com/Jean-Bernard-Hallez/jarvis-ephemeride)
 
