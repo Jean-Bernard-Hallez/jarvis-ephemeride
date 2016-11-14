@@ -10,7 +10,7 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Annonce un proverbe insrit dans le fichier config.sh
+Annonce "la St" du jour (ephemeride)
 
 ## Usage
 ```
