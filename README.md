@@ -9,12 +9,14 @@ For multi-language plugin:
 - clone the language directory and translate commands/functions.sh
 - optionally write the Description / Usage sections in several languages
 -->
+(12/12/16 Correction de la prononciation du mois de decembre + reconnaissance plus facile pour l ephemeride)
+
 ## Description
 Annonce "la St" du jour (ephemeride)
 
 ## Usage
 ```
-You: ephemeride ?
+You: C est quoi la fete du jour ?
 Jarvis: On est le 15 novembre, c'est la Saint Albert
 
 ```

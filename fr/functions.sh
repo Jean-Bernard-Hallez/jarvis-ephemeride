@@ -11,7 +11,7 @@ fi
 
 if [[ "$lemois" == "02" ]]; then
 local saint_config="$saint_config_fev"
-local moisentier="F�vrier"
+local moisentier="Février"
 fi
 
 if [[ "$lemois" == "03" ]]; then
@@ -45,7 +45,7 @@ fi
 
 if [[ "$lemois" == "08" ]]; then
 local saint_config="$saint_config_aou"
-local moisentier="Aout"
+local moisentier="Août"
 
 fi
 
@@ -68,7 +68,7 @@ fi
 
 if [[ "$lemois" == "12" ]]; then
 local saint_config="$saint_config_dec"
-local moisentier="Decembre"
+local moisentier="Décembre"
 
 fi
 
