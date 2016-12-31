@@ -9,6 +9,7 @@ For multi-language plugin:
 - clone the language directory and translate commands/functions.sh
 - optionally write the Description / Usage sections in several languages
 -->
+(31/12/16 correction ce compatibilité avec Jarvis UI)
 (12/12/16 Correction de la prononciation du mois de decembre + reconnaissance plus facile pour l ephemeride)
 
 ## Description

@@ -78,13 +78,13 @@ saint_conf
 
 
 saint_conf () {
-echo "on est le : $lejour $moisentier"
+reponsesaint="on est le $lejour $moisentier"
 while read device
 do
 local jour="$(jv_sanitize "$device" ".*")"
 if [[ "$jour" == "$lejour" ]]; then
 local nom="$(echo "$saint_config" | jq -r ".devices[] | select(.jour==\"$device\") | .nom")"
-echo "C'est la Saint $nom"
+say "$reponsesaint C'est la Saint $nom"
 fi
 done <<< "$(echo "$saint_config" | jq -r '.devices[].jour')"
 }
