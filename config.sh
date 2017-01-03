@@ -1,4 +1,4 @@
-saint_config_jav='{ "devices":[
+saint_config_jan='{ "devices":[
 { "jour": "01", "nom": "Jour de l An"},
 { "jour": "02", "nom": "Basile"},
 { "jour": "03", "nom": "Geneviève"},
