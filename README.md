@@ -9,6 +9,7 @@ For multi-language plugin:
 - clone the language directory and translate commands/functions.sh
 - optionally write the Description / Usage sections in several languages
 -->
+(20/01/17 correction  =d'un petit bug)
 (31/12/16 correction ce compatibilité avec Jarvis UI)
 (12/12/16 Correction de la prononciation du mois de decembre + reconnaissance plus facile pour l ephemeride)
 
@@ -17,7 +18,7 @@ Annonce "la St" du jour (ephemeride)
 
 ## Usage
 ```
-You: C est quoi la fete du jour ?
+You: C est quoi la fete du jour ? (ou c'est la fete à qui aujourd'hui ?)
 Jarvis: On est le 15 novembre, c'est la Saint Albert
 
 ```
