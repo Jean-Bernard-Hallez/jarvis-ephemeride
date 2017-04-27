@@ -1,4 +1,4 @@
-#!/bin/bash
-# Use  only if you need to perform changes on the user system such as installing software
+#!/usr/bin/env bash
 
-
+# Install jq
+[[ -z $(which jq) ]] && sudo apt-get --yes --force-yes install jq
